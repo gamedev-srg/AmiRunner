@@ -28,6 +28,8 @@ This is a classic endless runner game aimed at the israeli students in order to 
 * The game is very straight forward and the moment the player starts to play he will show him the first english question, he's score and a floating message tell him to RUN!
 * The player cannot choose other game targets and goals.
 
+<img src="Pictures/dist_score.png" width="300" height="450">
+
 ### 3. Procedure
 
 * The first seconds of the game show a big timer on the screen and the player will start running slowly on the track. A dramatic music will start to play and the game will begin with the first English question for the player. The first question will be very easy one which will give any player a positive feeling for it's first few seconds, a feeling he will want to keep getting for the rest of the game.

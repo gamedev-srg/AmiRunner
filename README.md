@@ -4,6 +4,10 @@
 The Endless runner game that will prepare you for your Amiram test!
 For more information click [here](https://github.com/gamedev-srg/AmiRunner/blob/main/formal-elements.md).
 
+
+Itch.Io page: 
+
+
 First Beta Version Update Log:
 > Created the foundations of the endless runner game
 
